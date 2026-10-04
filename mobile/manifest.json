@@ -1,10 +1,26 @@
 {
-  "name": "Urban Vibe",
+  "name": "Urban Vibe - Tienda de Ropa Urbana",
   "short_name": "Urban Vibe",
   "description": "Tienda móvil de ropa urbana Urban Vibe",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
+  "orientation": "portrait-primary",
   "background_color": "#ffffff",
   "theme_color": "#111111",
-  "lang": "es"
+  "lang": "es-CO",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
