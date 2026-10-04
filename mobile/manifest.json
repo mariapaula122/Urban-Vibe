@@ -1,0 +1,10 @@
+{
+  "name": "Urban Vibe",
+  "short_name": "Urban Vibe",
+  "description": "Tienda móvil de ropa urbana Urban Vibe",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "lang": "es"
+}
